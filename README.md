@@ -1,0 +1,2 @@
+# link-scout
+link-scout
